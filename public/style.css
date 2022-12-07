@@ -1,0 +1,22 @@
+.title{
+    color: blue;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 50px;
+    font-weight: bold;
+}
+body{
+    background-color: lightblue
+}
+
+.photo{
+text-align: center;
+margin-top: 5rem;
+}
+
+.parrafo{
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 20px;
+    color: blue;
+}

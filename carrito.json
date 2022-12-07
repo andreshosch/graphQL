@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "productos": [
+      {
+        "title": "ORAL B CREMA 3D WHITE X70",
+        "price": "452.70",
+        "thumbnail": "https://contenidos.redfarmashop.com/7500435177030.jpg",
+        "description": "Blancura en 3 dimensiones: ayuda a remover hasta 80% de manchas en sólo 2 semanas.",
+        "timestamp": 1660756353012,
+        "stock": "152",
+        "codigo": 6483,
+        "id": 2
+      },
+      {
+        "title": "BUCAL TAC PROCTECTOR PARA NIÑOS C/ CAJA CONTENEDORA",
+        "price": "580.80",
+        "thumbnail": "https://contenidos.redfarmashop.com/7798034746362.jpg",
+        "description": "Ayuda a enderezar la mordida de los niños y aevitar el bruxismo",
+        "timestamp": 1660756620886,
+        "stock": "12",
+        "codigo": 8344,
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "productos": [
+      {
+        "title": "NATUFARMA VALERIANA + VIT.B1 COM X 40",
+        "price": "565",
+        "thumbnail": "https://contenidos.redfarmashop.com/7795379100644_1.jpg",
+        "description": "El betacaroteno es uno de los más importantes compuestos del grupo de los carotenoides. Es un pigmento natural que se encuentra en muchas frutas y verduras, particularmente la zanahoria.",
+        "timestamp": 1660756252760,
+        "stock": "42",
+        "codigo": 641,
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "productos": [
+      {
+        "title": "AVENO KIT BÁSICO CUIDADO INFANTIL",
+        "price": "4430.40",
+        "thumbnail": "https://contenidos.redfarmashop.com/PS022797.jpg",
+        "description": "Aveno Kit Básico Cuidado Infantil Incluye :La linea Infantil de Aveno no tiene conservantes y no irrita los ojos.",
+        "timestamp": 1660756439722,
+        "stock": "47",
+        "codigo": 7512,
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "productos": [
+      {
+        "title": "AVENO KIT BÁSICO CUIDADO INFANTIL",
+        "price": "4430.40",
+        "thumbnail": "https://contenidos.redfarmashop.com/PS022797.jpg",
+        "description": "Aveno Kit Básico Cuidado Infantil Incluye :La linea Infantil de Aveno no tiene conservantes y no irrita los ojos.",
+        "timestamp": 1660756439722,
+        "stock": "47",
+        "codigo": 7512,
+        "id": 3
+      },
+      {
+        "title": "ORAL B CREMA 3D WHITE X70",
+        "price": "452.70",
+        "thumbnail": "https://contenidos.redfarmashop.com/7500435177030.jpg",
+        "description": "Blancura en 3 dimensiones: ayuda a remover hasta 80% de manchas en sólo 2 semanas.",
+        "timestamp": 1660756353012,
+        "stock": "152",
+        "codigo": 6483,
+        "id": 2
+      }
+    ]
+  }
+]
